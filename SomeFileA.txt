@@ -1,1 +1,3 @@
 Here is some stuff I wrote on Jan 8th. 10:45 am
+
+Now, I'm changing the file and adding very pertinent details. As an fyi, I am seeing this message in github, "You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request."
